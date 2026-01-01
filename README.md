@@ -64,7 +64,7 @@ The goal of this project is to practice and strengthen SQL skills using a real-w
 - **Description:** Contains hospital-wise patient, doctor, department,
   medical expenses, admission and discharge details.
   
-- `HOSPITAL_Analysis` – SQL queries used in this project  
+- `HOSPITAL_Analysis.sql` – SQL queries used in this project  
 - `30 Days SQL Micro Course Assignment ANSWER.pdf` – Assignment reference  
 
 ---
