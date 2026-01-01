@@ -58,7 +58,13 @@ The goal of this project is to practice and strengthen SQL skills using a real-w
 ---
 
 ## 📁 Project Files
-- `Hospita[Uploading Hospital_Data.csv…]()` – Dataset used for analysis  
+#  Dataset
+The dataset used in this project is stored in the `data` folder.
+
+- **File Name:** Hospital_Data.csv
+- **Description:** Contains hospital-wise patient, doctor, department,
+  medical expenses, admission and discharge details.
+  
 - `hospital_analysis.sql` – SQL queries used in this project  
 - `30 Days SQL Micro Course Assignment ANSWER.pdf` – Assignment reference  
 
