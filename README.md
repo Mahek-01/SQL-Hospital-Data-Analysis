@@ -59,7 +59,6 @@ The goal of this project is to practice and strengthen SQL skills using a real-w
 
 ## 📁 Project Files
 #  Dataset
-The dataset used in this project is stored in the `data` folder.
 
 - **File Name:** Hospital_Data.csv
 - **Description:** Contains hospital-wise patient, doctor, department,
