@@ -85,5 +85,5 @@ This project was completed as part of a certified course.
 - **Course:** 30 Days SQL Micro Course  
 - **Instructor:** Satish Dhawale  
 - **Platform:** Skill Course  
-- 📄 ![SQL_SC_Certificate](https://github.com/user-attachments/assets/46972d51-043a-4c9c-a800-47a4d9473abc)
+  ![SQL_SC_Certificate](https://github.com/user-attachments/assets/46972d51-043a-4c9c-a800-47a4d9473abc)
 
